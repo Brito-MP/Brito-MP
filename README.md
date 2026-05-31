@@ -9,15 +9,13 @@
 ## 🎓 University Projects
 
 **1st year**
-- [**LI2**](https://github.com/rafaellseara/Projeto-LI2) - A little 2D game using ncurses, written in C
 
 **2st year**
-- [**LI3**](https://github.com/rafaellseara/Projeto-LI3) - A Data Manager, parsing data from a CSV file to perform queries
 
 **3st year**
-
-- [**LI4**](https://github.com/rafaellseara/LI4) - A Blazor WebAssembly pizza assembly app built with C# and MVC, allowing users to simulate pizza creation step-by-step.
-
+- [**CC**](https://github.com/Brito-MP/Projeto_CC_2526) - Interplanetary communication system between rovers and a mothership using UDP and TCP.
+- [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - search algorithms that optimise taxi distribution in a city.
+- [**CG**](https://github.com/Brito-MP/Projeto_CC_2526) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
 
 ## Things I code with
 
