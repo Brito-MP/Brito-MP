@@ -11,7 +11,7 @@
 ### 2nd year
 
 #### 2nd Semester
-- [**POO**](https://github.com/Brito-MP/POO.git)
+- [**POO**](https://github.com/Brito-MP/POO.git) - Object-oriented music streaming platform developed in Java.
 
 ### 3rd year
 #### 1st Semester
