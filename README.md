@@ -8,13 +8,17 @@
 
 ## 🎓 University Projects
 
-**1st year**
+### 2nd year
 
-**2st year**
+#### 2nd Semester
+- [**POO**](https://github.com/Brito-MP/POO.git)
 
-**3st year**
+### 3rd year
+#### 1st Semester
 - [**CC**](https://github.com/Brito-MP/Projeto_CC_2526) - Interplanetary communication system between rovers and a mothership using UDP and TCP.
 - [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - search algorithms that optimise taxi distribution in a city.
+
+#### 2nd Semester
 - [**CG**](https://github.com/Brito-MP/Projeto_CC_2526) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
 
 ## Things I code with
