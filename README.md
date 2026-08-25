@@ -19,7 +19,7 @@
 - [**CC**](https://github.com/Brito-MP/Projeto_CC_2526) - Interplanetary communication system between rovers and a mothership using UDP and TCP.
 - [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - Search algorithms that optimise taxi distribution in a city.
 - [**SD**](https://github.com/Brito-MP/SD.git) - Concurrent time-series database for sales events in Java, featuring TCP client-server communication, multithreading, synchronization, caching and disk persistence.
-- [**DSS**](https://github.com/Brito-MP/DSS.git) -
+- [**DSS**](https://github.com/Brito-MP/DSS.git) - Java restaurant management system using layered architecture, DAOs and MariaDB
 - [**IPM**]() - 
 
 
