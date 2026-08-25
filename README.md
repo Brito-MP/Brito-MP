@@ -20,12 +20,14 @@
 - [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - Search algorithms that optimise taxi distribution in a city.
 - [**SD**](https://github.com/Brito-MP/SD.git) - Concurrent time-series database for sales events in Java, featuring TCP client-server communication, multithreading, synchronization, caching and disk persistence.
 - [**DSS**](https://github.com/Brito-MP/DSS.git) - Java restaurant management system using layered architecture, DAOs and MariaDB
-- [**IPM**]() - 
+- [**IPM**](https://github.com/Brito-MP/IPM.git) - Interactive Airbnb data visualization dashboard built with Vue, Express and Leaflet
 
 
 #### 2nd Semester
+- [**SSI**](https://github.com/Brito-MP/SSI.git) - Secure messaging system in Python with E2EE, X.509 certificates and AES-GCM encryption.
 - [**CG**](https://github.com/Brito-MP/Projeto_CC_2526) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
-
+- [**PL**](https://github.com/Brito-MP/PL.git) - Fortran 77 compiler in Python with lexical analysis, parsing, semantic checks and EWVM code generation.
+ 
 ## Things I code with
 
 ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
