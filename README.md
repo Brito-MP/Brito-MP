@@ -12,11 +12,16 @@
 
 #### 2nd Semester
 - [**POO**](https://github.com/Brito-MP/POO.git) - Object-oriented music streaming platform developed in Java.
+- [**SO**](https://github.com/Brito-MP/SO.git) - Client-server document indexing system in C using FIFOs, processes, pipes, parallel search and an LRU cache.
 
 ### 3rd year
 #### 1st Semester
 - [**CC**](https://github.com/Brito-MP/Projeto_CC_2526) - Interplanetary communication system between rovers and a mothership using UDP and TCP.
-- [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - search algorithms that optimise taxi distribution in a city.
+- [**IA**](https://github.com/Brito-MP/Projeto_IA_2526) - Search algorithms that optimise taxi distribution in a city.
+- [**SD**](https://github.com/Brito-MP/SD.git) - Concurrent time-series database for sales events in Java, featuring TCP client-server communication, multithreading, synchronization, caching and disk persistence.
+- [**DSS**](https://github.com/Brito-MP/DSS.git) -
+- [**IPM**]() - 
+
 
 #### 2nd Semester
 - [**CG**](https://github.com/Brito-MP/Projeto_CC_2526) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
