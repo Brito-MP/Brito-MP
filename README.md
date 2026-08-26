@@ -25,7 +25,7 @@
 
 #### 2nd Semester
 - [**SSI**](https://github.com/Brito-MP/SSI.git) - Secure messaging system in Python with E2EE, X.509 certificates and AES-GCM encryption.
-- [**CG**](https://github.com/Brito-MP/Projeto_CC_2526) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
+- [**CG**](https://github.com/Brito-MP/CG---2026.git) - 3D engine in C++/OpenGL for an animated solar system with textures and lighting.
 - [**PL**](https://github.com/Brito-MP/PL.git) - Fortran 77 compiler in Python with lexical analysis, parsing, semantic checks and EWVM code generation.
  
 ## Things I code with
