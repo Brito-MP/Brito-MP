@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@henriquebrito.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-brito-72599331b/)
-[![Website](https://shields.io)](https://henriquebrito.dev)
+[![Website](https://img.shields.io/badge/Website-2F3136?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henriquebrito.dev)
 
 
 ## 🎓 University Projects
