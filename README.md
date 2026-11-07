@@ -3,8 +3,10 @@
 <p>I'm Henrique, a Software Engineering Student at <b>University of Minho</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5372/5372974.png" width="13"/> <b>Braga, Portugal</b>.</p>
 <p>Currently serving as Vogal at @ <a href="https://cesium.di.uminho.pt">CeSIUM</a>.</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbritomp@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@henriquebrito.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-brito-72599331b/)
+[![Website](https://shields.io)](https://henriquebrito.dev)
+
 
 ## 🎓 University Projects
 
